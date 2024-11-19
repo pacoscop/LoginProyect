@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "860456172175",
+    "project_id": "e09loginproyect",
+    "storage_bucket": "e09loginproyect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860456172175:android:285ac76e97436f5935cefa",
+        "android_client_info": {
+          "package_name": "com.far.loginproyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860456172175-dt8hk2e422koug877sjb544ojdhvd09e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMDXuXBW8ZboasFEOYUDOJZ9lqGE7wsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860456172175-dt8hk2e422koug877sjb544ojdhvd09e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860456172175:android:8b253c5c1c612db735cefa",
+        "android_client_info": {
+          "package_name": "com.smb.jc_mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860456172175-dt8hk2e422koug877sjb544ojdhvd09e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMDXuXBW8ZboasFEOYUDOJZ9lqGE7wsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860456172175-dt8hk2e422koug877sjb544ojdhvd09e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
